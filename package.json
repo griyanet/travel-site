@@ -1,0 +1,28 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "exercise to use nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griyanet/travel-site.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exercise",
+    "griyanet"
+  ],
+  "author": "ade griyanet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griyanet/travel-site/issues"
+  },
+  "homepage": "https://github.com/griyanet/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "normalize.css": "^8.0.1"
+  }
+}
